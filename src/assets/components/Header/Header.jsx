@@ -36,7 +36,7 @@ const Header = () => {
             rounded-full flex items-center justify-center'><b>HI</b></span>
 
             <div className='leading-[20px]'>
-              <h2 className='text-xl text-white font-[700]'>Hasan Iqbal</h2>
+              <h2 className='text-xl text-white font-[700]'>Sai Surya Teja Reddy Pappu</h2>
               <p className='text-white text-[14px] mb-1 font-[500]'>Portfolio</p>
             </div>
           </div>
