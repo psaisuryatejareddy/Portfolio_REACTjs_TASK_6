@@ -33,7 +33,7 @@ const Header = () => {
           {/* logo start */}
           <div className='flex itmes-center gap-[10px]'>
             <span className='w-[35px] h-[35px] mt-2 bg-white text-black text-[18px] font-[500]
-            rounded-full flex items-center justify-center'><b>HI</b></span>
+            rounded-full flex items-center justify-center'><b>ST</b></span>
 
             <div className='leading-[20px]'>
               <h2 className='text-xl text-white font-[700]'>Sai Surya Teja Reddy Pappu</h2>
