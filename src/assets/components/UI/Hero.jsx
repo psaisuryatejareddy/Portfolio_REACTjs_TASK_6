@@ -10,7 +10,7 @@ import CountUp from 'react-countup';
 
 
 const Hero = () => {
-    const [title, setTitle]= React.useState("hasan Iqbal");
+    const [title, setTitle]= React.useState("Sai Surya Teja Reddy P");
     React.useEffect(()=>{
            
             setTitle(document.title=title);
