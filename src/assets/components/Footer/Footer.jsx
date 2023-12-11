@@ -34,13 +34,13 @@ const Footer = () => {
               </span>
 
               <span className='w-[40px] h-[40px]  mt-8 bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                <a href='https://instagram.com/coding_ding?igshid=MzNlNGNkZWQ4Mg==' className='text-gray-font-[500] text-[25px]'><i class="ri-instagram-line"></i></a>
+                <a href='https://www.instagram.com/p_sai_surya_teja_reddy/' className='text-gray-font-[500] text-[25px]'><i class="ri-instagram-line"></i></a>
               </span>
               <span className='w-[40px] h-[40px]  mt-8 bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                <a href='https://github.com/Rooney9999' className='text-gray-300 font-[500] text-[25px]'><i class='ri-github-line'></i></a>
+                <a href='https://github.com/psaisuryatejareddy' className='text-gray-300 font-[500] text-[25px]'><i class='ri-github-line'></i></a>
               </span>
               <span className='w-[40px] h-[40px]  mt-8 bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                <a href='https://www.linkedin.com/in/hasan-iqbal-b28322216' className='text-gray-300 font-[500] text-[25px]'><i class="ri-linkedlin-box-line"></i></a>
+                <a href='https://www.linkedin.com/in/p-sai-surya-teja-reddy-21260a232/' className='text-gray-300 font-[500] text-[25px]'><i class="ri-linkedlin-box-line"></i></a>
               </span>
             </div>
           </div>
