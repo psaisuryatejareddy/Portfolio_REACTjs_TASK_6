@@ -57,12 +57,12 @@ const Footer = () => {
                      rounded-full flex items-center justify-center'>H</span>
 
                 <div className='leading-[20px]'>
-                  <h2 className='text-xl text-white font-[700]'>Hasan Iqbal</h2>
+                  <h2 className='text-xl text-white font-[700]'>Sai Surya Teja Reddy Pappu</h2>
                 </div>
               </div>
             </div>
             <div>
-              <p className='text-gray-400 text-[14px]'>Copyright &copy; {year} <br /><b>Hasan Iqbal</b> </p>
+              <p className='text-gray-400 text-[14px]'>Copyright &copy; {year} <br /><b>Sai Surya Teja Reddy P</b> </p>
             </div>
           </div>
         </div>
